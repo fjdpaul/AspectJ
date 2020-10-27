@@ -1,0 +1,4 @@
+include ':mylibrary'
+include ':plugin'
+include ':app'
+rootProject.name = "AspectJDemo"
